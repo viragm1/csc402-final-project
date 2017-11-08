@@ -1,0 +1,10 @@
+The user added a patient to the system
+
+The user got a report of the next patient in the triage system
+
+The user treated a patient in the triage system
+
+The user got a report of all the treated patients in the system
+
+The user exited the program
+

@@ -1,0 +1,120 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/matev/ClionProjects/Project 3/AllPatientsVector.cpp
+AllPatientsVector.h
+/cygdrive/c/Users/matev/ClionProjects/Project 3/AllPatientsVector.h
+
+/cygdrive/c/Users/matev/ClionProjects/Project 3/AllPatientsVector.h
+vector
+-
+iostream
+-
+Patient.h
+/cygdrive/c/Users/matev/ClionProjects/Project 3/Patient.h
+Logger.h
+/cygdrive/c/Users/matev/ClionProjects/Project 3/Logger.h
+
+/cygdrive/c/Users/matev/ClionProjects/Project 3/DoctorPatientMap.cpp
+DoctorPatientMap.h
+/cygdrive/c/Users/matev/ClionProjects/Project 3/DoctorPatientMap.h
+
+/cygdrive/c/Users/matev/ClionProjects/Project 3/DoctorPatientMap.h
+map
+-
+iostream
+-
+Patient.h
+/cygdrive/c/Users/matev/ClionProjects/Project 3/Patient.h
+Logger.h
+/cygdrive/c/Users/matev/ClionProjects/Project 3/Logger.h
+
+/cygdrive/c/Users/matev/ClionProjects/Project 3/Logger.cpp
+Logger.h
+/cygdrive/c/Users/matev/ClionProjects/Project 3/Logger.h
+
+/cygdrive/c/Users/matev/ClionProjects/Project 3/Logger.h
+fstream
+-
+iostream
+-
+cstdarg
+-
+string
+-
+
+/cygdrive/c/Users/matev/ClionProjects/Project 3/Patient.cpp
+Patient.h
+/cygdrive/c/Users/matev/ClionProjects/Project 3/Patient.h
+iostream
+-
+
+/cygdrive/c/Users/matev/ClionProjects/Project 3/Patient.h
+string
+-
+vector
+-
+
+/cygdrive/c/Users/matev/ClionProjects/Project 3/TreatedVector.cpp
+TreatedVector.h
+/cygdrive/c/Users/matev/ClionProjects/Project 3/TreatedVector.h
+
+/cygdrive/c/Users/matev/ClionProjects/Project 3/TreatedVector.h
+vector
+-
+iostream
+-
+Patient.h
+/cygdrive/c/Users/matev/ClionProjects/Project 3/Patient.h
+Logger.h
+/cygdrive/c/Users/matev/ClionProjects/Project 3/Logger.h
+
+/cygdrive/c/Users/matev/ClionProjects/Project 3/TriageQueue.cpp
+TriageQueue.h
+/cygdrive/c/Users/matev/ClionProjects/Project 3/TriageQueue.h
+
+/cygdrive/c/Users/matev/ClionProjects/Project 3/TriageQueue.h
+queue
+-
+iostream
+-
+chrono
+-
+thread
+-
+Patient.h
+/cygdrive/c/Users/matev/ClionProjects/Project 3/Patient.h
+TreatedVector.h
+/cygdrive/c/Users/matev/ClionProjects/Project 3/TreatedVector.h
+Logger.h
+/cygdrive/c/Users/matev/ClionProjects/Project 3/Logger.h
+
+/cygdrive/c/Users/matev/ClionProjects/Project 3/Utilities.h
+string
+-
+sstream
+-
+
+/cygdrive/c/Users/matev/ClionProjects/Project 3/main.cpp
+iostream
+-
+fstream
+-
+algorithm
+-
+Patient.h
+/cygdrive/c/Users/matev/ClionProjects/Project 3/Patient.h
+Utilities.h
+/cygdrive/c/Users/matev/ClionProjects/Project 3/Utilities.h
+TriageQueue.h
+/cygdrive/c/Users/matev/ClionProjects/Project 3/TriageQueue.h
+DoctorPatientMap.h
+/cygdrive/c/Users/matev/ClionProjects/Project 3/DoctorPatientMap.h
+AllPatientsVector.h
+/cygdrive/c/Users/matev/ClionProjects/Project 3/AllPatientsVector.h
+
